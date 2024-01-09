@@ -21,7 +21,10 @@ body {
 nav {
     display: flex;
     justify-content: space-between;
+<<<<<<< HEAD
     margin: 0px 200px;
+=======
+>>>>>>> d1948bbd35076116546abd611b300cee53591ca5
 }
 
 .nav-title {
@@ -45,6 +48,7 @@ nav a {
     text-decoration: none;
     color: #474747;
 }
+<<<<<<< HEAD
 /* header related styles */
 .header {
     background-color: #FFF8F3;;
@@ -57,3 +61,5 @@ nav a {
 .banner .profile-pic{
     width: 500px;
 }
+=======
+>>>>>>> d1948bbd35076116546abd611b300cee53591ca5
