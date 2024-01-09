@@ -117,3 +117,9 @@ main{
 .about-info {
     text-align: center;
 }
+#What-i-do-descripetion{
+    padding: 30px 150px;
+}
+.Skill-container{
+    display: flex;
+}
